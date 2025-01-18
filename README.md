@@ -1,4 +1,4 @@
-**README: Employee Retention Analysis Using Logistic Regression**
+Employee Retention Prediction and Analysis
 
 ---
 
